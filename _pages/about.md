@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi!  I’m Kai Xu (徐凯), a research scientist at ByteDance, Inc. I received the Ph.D. degree in University of Chinese Academy of Sciences (UCAS) in Jan. 2022, supervised by [Qingming Huang](https://people.ucas.ac.cn/~qmhuang) (Professor at UCAS, IEEE Fellow). I received the B.S. degree in Xidian University in Jul. 2016. I am also proud to have collaborated with Guorong Li (Professor at UCAS), Longyin Wen (Research Scientist at ByteDance, Inc) and NanNan Wang (Professor at Xidian University).
+Hi!  I’m Kai Xu (徐凯), a research scientist at ByteDance, Inc. I received the Ph.D. degree in University of Chinese Academy of Sciences (UCAS) in Jan. 2022, supervised by [Qingming Huang](https://people.ucas.ac.cn/~qmhuang) (Professor at UCAS, IEEE Fellow). I received the B.S. degree in Xidian University in Jul. 2016. I am also proud to have collaborated with Guorong Li (Professor at UCAS), Longyin Wen (Research Scientist at ByteDance, Inc), Xiaojie Jin (Research Scientist at ByteDance, Inc) and NanNan Wang (Professor at Xidian University).
 
 My research interests include computer vision, multimodal large model and recommendation system. 
 
